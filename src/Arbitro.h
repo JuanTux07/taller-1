@@ -1,4 +1,9 @@
-//Debe escribir una cabecera de archivo con la plantilla CRC: Clase, Responsabilidad y Colaboracion
+/*
+    Nombre: Arbitro.h
+    Autor: Juan David Narváez & Santiago Vargas Hoyos
+    Clase: Arbitro
+*/
+
 
 
 #ifndef ARBITRO_H_

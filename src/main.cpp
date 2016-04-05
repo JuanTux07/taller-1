@@ -1,9 +1,7 @@
 //============================================================================
 // Name        : taller1.cpp
-// Author      : 
-// Version     :
-// Copyright   : 
-// Description : 
+// Author      : Juan David Narváez & Santiago Vargas Hoyos
+// Description : Funcion main
 //============================================================================
 
 #include <iostream>
